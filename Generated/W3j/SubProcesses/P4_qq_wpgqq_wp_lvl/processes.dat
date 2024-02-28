@@ -1,0 +1,32 @@
+1       u u > e+ ve g u d,c c > e+ ve g c s
+mirror  none
+2       u c > e+ ve g u s
+mirror  c u > e+ ve g u s
+3       u c > e+ ve g c d,u s > e+ ve g s d,c d > e+ ve g d s
+mirror  c u > e+ ve g c d,s u > e+ ve g s d,d c > e+ ve g d s
+4       u d > e+ ve g d d,c s > e+ ve g s s
+mirror  d u > e+ ve g d d,s c > e+ ve g s s
+5       u u~ > e+ ve g d u~,c c~ > e+ ve g s c~
+mirror  u~ u > e+ ve g d u~,c~ c > e+ ve g s c~
+6       u u~ > e+ ve g s c~,c c~ > e+ ve g d u~,d d~ > e+ ve g s c~,s s~ > e+ ve g d u~
+mirror  u~ u > e+ ve g s c~,c~ c > e+ ve g d u~,d~ d > e+ ve g s c~,s~ s > e+ ve g d u~
+7       u c~ > e+ ve g d c~,u s~ > e+ ve g d s~,c u~ > e+ ve g s u~,c d~ > e+ ve g s d~
+mirror  c~ u > e+ ve g d c~,s~ u > e+ ve g d s~,u~ c > e+ ve g s u~,d~ c > e+ ve g s d~
+8       u d~ > e+ ve g u u~,c s~ > e+ ve g c c~
+mirror  d~ u > e+ ve g u u~,s~ c > e+ ve g c c~
+9       u d~ > e+ ve g c c~,u d~ > e+ ve g s s~,c s~ > e+ ve g u u~,c s~ > e+ ve g d d~
+mirror  d~ u > e+ ve g c c~,d~ u > e+ ve g s s~,s~ c > e+ ve g u u~,s~ c > e+ ve g d d~
+10      u d~ > e+ ve g d d~,c s~ > e+ ve g s s~
+mirror  d~ u > e+ ve g d d~,s~ c > e+ ve g s s~
+11      u s~ > e+ ve g u c~,c d~ > e+ ve g c u~,d s~ > e+ ve g d c~,s d~ > e+ ve g s u~
+mirror  s~ u > e+ ve g u c~,d~ c > e+ ve g c u~,s~ d > e+ ve g d c~,d~ s > e+ ve g s u~
+12      d d~ > e+ ve g d u~,s s~ > e+ ve g s c~
+mirror  d~ d > e+ ve g d u~,s~ s > e+ ve g s c~
+13      u~ d~ > e+ ve g u~ u~,c~ s~ > e+ ve g c~ c~
+mirror  d~ u~ > e+ ve g u~ u~,s~ c~ > e+ ve g c~ c~
+14      u~ s~ > e+ ve g u~ c~,c~ d~ > e+ ve g c~ u~,d~ s~ > e+ ve g d~ c~
+mirror  s~ u~ > e+ ve g u~ c~,d~ c~ > e+ ve g c~ u~,s~ d~ > e+ ve g d~ c~
+15      d~ d~ > e+ ve g u~ d~,s~ s~ > e+ ve g c~ s~
+mirror  none
+16      d~ s~ > e+ ve g u~ s~
+mirror  s~ d~ > e+ ve g u~ s~

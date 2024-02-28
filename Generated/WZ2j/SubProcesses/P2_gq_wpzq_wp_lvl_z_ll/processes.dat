@@ -1,0 +1,8 @@
+1       g u > e+ ve e+ e- d,g c > e+ ve e+ e- s,g u > mu+ vm mu+ mu- d,g c > mu+ vm mu+ mu- s
+mirror  u g > e+ ve e+ e- d,c g > e+ ve e+ e- s,u g > mu+ vm mu+ mu- d,c g > mu+ vm mu+ mu- s
+2       g u > e+ ve mu+ mu- d,g c > e+ ve mu+ mu- s,g u > mu+ vm e+ e- d,g c > mu+ vm e+ e- s
+mirror  u g > e+ ve mu+ mu- d,c g > e+ ve mu+ mu- s,u g > mu+ vm e+ e- d,c g > mu+ vm e+ e- s
+3       g d~ > e+ ve e+ e- u~,g s~ > e+ ve e+ e- c~,g d~ > mu+ vm mu+ mu- u~,g s~ > mu+ vm mu+ mu- c~
+mirror  d~ g > e+ ve e+ e- u~,s~ g > e+ ve e+ e- c~,d~ g > mu+ vm mu+ mu- u~,s~ g > mu+ vm mu+ mu- c~
+4       g d~ > e+ ve mu+ mu- u~,g s~ > e+ ve mu+ mu- c~,g d~ > mu+ vm e+ e- u~,g s~ > mu+ vm e+ e- c~
+mirror  d~ g > e+ ve mu+ mu- u~,s~ g > e+ ve mu+ mu- c~,d~ g > mu+ vm e+ e- u~,s~ g > mu+ vm e+ e- c~

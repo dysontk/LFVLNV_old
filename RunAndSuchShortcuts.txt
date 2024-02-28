@@ -1,0 +1,28 @@
+# All these are meant to be run within ~/MG5_aMC_v3_5_3
+
+# Commands for generating the proccess:
+./bin/mg5_aMC ~/MG5_aMC_v3_5_3/GenerationFiles/LNV_proc.dat
+./bin/mg5_aMC ~/MG5_aMC_v3_5_3/GenerationFiles/WZ_proc.dat
+./bin/mg5_aMC ~/MG5_aMC_v3_5_3/GenerationFiles/W3j_proc.dat
+./bin/mg5_aMC ~/MG5_aMC_v3_5_3/GenerationFiles/ZZ_proc.dat
+./bin/mg5_aMC ~/MG5_aMC_v3_5_3/GenerationFiles/ttbar_proc.dat
+
+# Commands for generating the events:
+export PYTHIA8DATA="/home/dysontravis/MG5_aMC_v3_5_3/HEPTools/pythia8/share/Pythia8/xmldoc/";
+sudo ./mnt/d/Research/Generated/LNV/bin/madevent ./GenerationFiles/LNV_run.dat
+
+export PYTHIA8DATA="/home/dysontravis/MG5_aMC_v3_5_3/HEPTools/pythia8/share/Pythia8/xmldoc/";
+sudo .//mnt/d/Research/Generated/WZ2j/bin/madevent ./GenerationFiles/WZ_run.dat
+
+export PYTHIA8DATA="/home/dysontravis/MG5_aMC_v3_5_3/HEPTools/pythia8/share/Pythia8/xmldoc/";
+sudo ./mnt/d/Research/Generated/W3j/bin/madevent ./GenerationFiles/W3j_run.dat
+
+export PYTHIA8DATA="/home/dysontravis/MG5_aMC_v3_5_3/HEPTools/pythia8/share/Pythia8/xmldoc/";
+sudo ./mnt/d/Research/Generated/ZZ2j/bin/madevent ./GenerationFiles/ZZ_run.dat
+
+export PYTHIA8DATA="/home/dysontravis/MG5_aMC_v3_5_3/HEPTools/pythia8/share/Pythia8/xmldoc/";
+./Generated/ttbar/bin/madevent ./GenerationFiles/ttbar_run.dat
+
+
+# These are all the run and process files currently* in GenerationFiles
+W3j_proc.dat  W3j_run.dat  WZ_proc.dat  WZ_run.dat  ZZ_proc.dat  ZZ_run.dat  ttbar_proc.dat  ttbar_run.dat

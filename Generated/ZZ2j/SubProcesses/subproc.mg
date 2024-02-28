@@ -1,0 +1,6 @@
+P2_gg_zzqq_z_ll_z_ll
+P2_gq_zzgq_z_ll_z_ll
+P2_qq_zzqq_z_ll_z_ll
+P2_qq_zzgg_z_ll_z_ll
+P1_gq_zzq_z_ll_z_ll
+P1_qq_zzg_z_ll_z_ll

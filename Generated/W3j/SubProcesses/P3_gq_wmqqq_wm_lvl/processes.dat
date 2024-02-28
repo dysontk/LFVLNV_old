@@ -1,0 +1,20 @@
+1       g u > e- ve~ u u d~,g c > e- ve~ c c s~
+mirror  u g > e- ve~ u u d~,c g > e- ve~ c c s~
+2       g u > e- ve~ u c s~,g c > e- ve~ c u d~,g d > e- ve~ d c s~,g s > e- ve~ s u d~
+mirror  u g > e- ve~ u c s~,c g > e- ve~ c u d~,d g > e- ve~ d c s~,s g > e- ve~ s u d~
+3       g d > e- ve~ u u u~,g s > e- ve~ c c c~
+mirror  d g > e- ve~ u u u~,s g > e- ve~ c c c~
+4       g d > e- ve~ u c c~,g d > e- ve~ u s s~,g s > e- ve~ c u u~,g s > e- ve~ c d d~
+mirror  d g > e- ve~ u c c~,d g > e- ve~ u s s~,s g > e- ve~ c u u~,s g > e- ve~ c d d~
+5       g d > e- ve~ u d d~,g s > e- ve~ c s s~
+mirror  d g > e- ve~ u d d~,s g > e- ve~ c s s~
+6       g u~ > e- ve~ u u~ d~,g c~ > e- ve~ c c~ s~
+mirror  u~ g > e- ve~ u u~ d~,c~ g > e- ve~ c c~ s~
+7       g u~ > e- ve~ c u~ s~,g c~ > e- ve~ u c~ d~,g d~ > e- ve~ c d~ s~,g s~ > e- ve~ u s~ d~
+mirror  u~ g > e- ve~ c u~ s~,c~ g > e- ve~ u c~ d~,d~ g > e- ve~ c d~ s~,s~ g > e- ve~ u s~ d~
+8       g u~ > e- ve~ c c~ d~,g u~ > e- ve~ s s~ d~,g c~ > e- ve~ u u~ s~,g c~ > e- ve~ d d~ s~
+mirror  u~ g > e- ve~ c c~ d~,u~ g > e- ve~ s s~ d~,c~ g > e- ve~ u u~ s~,c~ g > e- ve~ d d~ s~
+9       g u~ > e- ve~ d d~ d~,g c~ > e- ve~ s s~ s~
+mirror  u~ g > e- ve~ d d~ d~,c~ g > e- ve~ s s~ s~
+10      g d~ > e- ve~ u d~ d~,g s~ > e- ve~ c s~ s~
+mirror  d~ g > e- ve~ u d~ d~,s~ g > e- ve~ c s~ s~

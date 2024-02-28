@@ -1,0 +1,3 @@
+generate p p > z z j, z > l+ l-, z > l+ l-
+add process p p > z z j j, z > l+ l-, z > l+ l-
+output /mnt/d/Research/Generated/ZZ2j

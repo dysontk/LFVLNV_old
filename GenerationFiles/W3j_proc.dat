@@ -1,0 +1,5 @@
+generate p p > w- j j, w- > e- ve~
+add process p p > w+ j j, w+ > e+ ve
+add process p p > w- j j j, w- > e- ve~
+add process p p > w+ j j j, w+ > e+ ve
+output /mnt/d/Research/Generated/W3j
