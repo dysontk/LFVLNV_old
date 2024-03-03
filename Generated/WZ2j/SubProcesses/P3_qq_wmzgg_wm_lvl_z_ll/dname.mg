@@ -1,1 +1,0 @@
-DIRNAME=P3_qq_wmzgg_wm_lvl_z_ll

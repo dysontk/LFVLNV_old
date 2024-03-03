@@ -1,8 +1,0 @@
-1       u u~ > e+ e- e+ e- g,c c~ > e+ e- e+ e- g,u u~ > mu+ mu- mu+ mu- g,c c~ > mu+ mu- mu+ mu- g
-mirror  u~ u > e+ e- e+ e- g,c~ c > e+ e- e+ e- g,u~ u > mu+ mu- mu+ mu- g,c~ c > mu+ mu- mu+ mu- g
-2       u u~ > e+ e- mu+ mu- g,c c~ > e+ e- mu+ mu- g
-mirror  u~ u > e+ e- mu+ mu- g,c~ c > e+ e- mu+ mu- g
-3       d d~ > e+ e- e+ e- g,s s~ > e+ e- e+ e- g,d d~ > mu+ mu- mu+ mu- g,s s~ > mu+ mu- mu+ mu- g
-mirror  d~ d > e+ e- e+ e- g,s~ s > e+ e- e+ e- g,d~ d > mu+ mu- mu+ mu- g,s~ s > mu+ mu- mu+ mu- g
-4       d d~ > e+ e- mu+ mu- g,s s~ > e+ e- mu+ mu- g
-mirror  d~ d > e+ e- mu+ mu- g,s~ s > e+ e- mu+ mu- g

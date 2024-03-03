@@ -1,1 +1,0 @@
-DIRNAME=P1_gq_wmgq_wm_lvl

@@ -1,2 +1,0 @@
-Merging scale       Cross-section [pb]  MC uncertainty [pb] 
-30                  4.437670e+02        8.24e+01            

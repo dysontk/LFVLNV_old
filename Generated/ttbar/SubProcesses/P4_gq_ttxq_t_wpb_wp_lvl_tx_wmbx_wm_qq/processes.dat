@@ -1,6 +1,0 @@
-1       g u > e+ ve b d u~ b~ u,g c > e+ ve b d u~ b~ c,g d > e+ ve b d u~ b~ d,g s > e+ ve b d u~ b~ s,g u > e+ ve b s c~ b~ u,g c > e+ ve b s c~ b~ c,g d > e+ ve b s c~ b~ d,g s > e+ ve b s c~ b~ s
-mirror  u g > e+ ve b d u~ b~ u,c g > e+ ve b d u~ b~ c,d g > e+ ve b d u~ b~ d,s g > e+ ve b d u~ b~ s,u g > e+ ve b s c~ b~ u,c g > e+ ve b s c~ b~ c,d g > e+ ve b s c~ b~ d,s g > e+ ve b s c~ b~ s
-2       g u~ > e+ ve b d u~ b~ u~,g c~ > e+ ve b d u~ b~ c~,g d~ > e+ ve b d u~ b~ d~,g s~ > e+ ve b d u~ b~ s~
-mirror  u~ g > e+ ve b d u~ b~ u~,c~ g > e+ ve b d u~ b~ c~,d~ g > e+ ve b d u~ b~ d~,s~ g > e+ ve b d u~ b~ s~
-3       g u~ > e+ ve b s c~ b~ u~,g c~ > e+ ve b s c~ b~ c~,g d~ > e+ ve b s c~ b~ d~,g s~ > e+ ve b s c~ b~ s~
-mirror  u~ g > e+ ve b s c~ b~ u~,c~ g > e+ ve b s c~ b~ c~,d~ g > e+ ve b s c~ b~ d~,s~ g > e+ ve b s c~ b~ s~
